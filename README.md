@@ -76,8 +76,8 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPOSITORY_URL>
-cd health-risk-analysis-mlops
+git clone https://github.com/cl0ud08/health-risk-analysis.git
+cd health-risk-analysis
 
 # Start all services
 docker-compose up -d
