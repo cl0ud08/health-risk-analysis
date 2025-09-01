@@ -321,16 +321,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Contact
-
-**Project Maintainer** - [your-email@example.com](mailto:your-email@example.com)
-
-**Project Link**: [https://github.com/YOUR_USERNAME/health-risk-analysis-mlops](https://github.com/YOUR_USERNAME/health-risk-analysis-mlops)
-
-**Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/health-risk-analysis-mlops/issues)
-
----
-
 <div align="center">
 
 **⭐ If you found this project valuable, please consider giving it a star!**
